@@ -1,3 +1,3 @@
-# Nomad React Moive app
+# Nomad React Movie app
 
 React JS Fundamentals Course
